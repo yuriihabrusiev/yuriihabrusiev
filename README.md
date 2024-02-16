@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,ruby,rails,github,aws,gcp,docker,kubernetes,terraform,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,ruby,rails,vscode,github,aws,gcp,docker,kubernetes,terraform)](https://skillicons.dev)
