@@ -24,7 +24,6 @@ I specialize in building solutions using these tools & technologies:
 * **FrontEnd**: [`React`][reactjs], [`Hotwire`][hotwire], [`Tailwind CSS`][tailwindcss]
 * **BackEnd**: [`Ruby on Rails`][rails], [`Django`][django], [`Next.js`][nextjs]
 * **DevOps**: [`Amazon Web Services`][aws], [`Google Cloud`][gcloud]
-* **CI/CD**: [`GitHub Actions`][ghactions], [`CircleCI`][circleci]
 * **DevEnv**: [`Visual Studio Code`][vscode], [`Git`][git], [`Docker`][docker]
 
 #### 📫 Contact
@@ -39,8 +38,6 @@ Ping me on [LinkedIn](https://www.linkedin.com/in/yuriihabrusiev) with your ques
 [nextjs]: https://nextjs.org
 [aws]: https://aws.amazon.com
 [gcloud]: https://cloud.google.com
-[ghactions]: https://github.com/features/actions 
-[circleci]: https://circleci.com
 [vscode]: https://code.visualstudio.com
 [git]: https://git-scm.com
 [docker]: https://www.docker.com
