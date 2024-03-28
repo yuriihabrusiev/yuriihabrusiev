@@ -9,7 +9,7 @@ I specialize in building solutions using these tools & technologies:
 
 For more information, please check my [LinkedIn][linkedin]. 
 <br>
-Also, here is a [list of other things][uses] I use daily and for work.
+Also, here is a [list of essential things][uses] I use daily and for work.
 
 #### 👨🏻‍💻 Currently I'm working on...
 * Driving engineering team at [Finique](https://finique.co).
