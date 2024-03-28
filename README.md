@@ -7,7 +7,8 @@ For over 10 years I have been professionally involved in creating web applicatio
 I specialize in building solutions using these tools & technologies:
 * **FrontEnd**: [`React`][reactjs], [`Hotwire`][hotwire], [`Tailwind CSS`][tailwindcss]
 * **BackEnd**: [`Ruby on Rails`][rails], [`Django`][django], [`Next.js`][nextjs]
-* **DevOps**: [`Amazon Web Services`][aws], [`Google Cloud`][gcloud]
+* **DevOps**: [`Docker`][docker], [`Kubernetes`][kubernetes], [`Terraform`][terraform]
+* **Clouds**: [`Amazon Web Services`][aws], [`Google Cloud`][gcloud]
 
 For more information, please check my [LinkedIn][linkedin]. 
 <br>
@@ -33,6 +34,6 @@ Ping me on [LinkedIn][linkedin] with your questions, ideas or anything else!
 [nextjs]: https://nextjs.org
 [aws]: https://aws.amazon.com
 [gcloud]: https://cloud.google.com
-[vscode]: https://code.visualstudio.com
-[git]: https://git-scm.com
 [docker]: https://www.docker.com
+[kubernetes]: https://kubernetes.io
+[terraform]: https://www.terraform.io
