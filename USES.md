@@ -18,4 +18,8 @@ My preferred code editor is [Visual Studio Code](https://code.visualstudio.com) 
 <br>
 In terminal I use `zsh` with [Starship](https://starship.rs) prompt. 
 
-<img width="1440" alt="vscode" src="https://github.com/yuriihabrusiev/yuriihabrusiev/assets/901000/429d3e0e-8fa9-4326-bce1-f6fce950dae1">
+
+<details>
+  <summary>My Visual Studio Code setup</summary>
+  <img width="1440" alt="vscode" src="https://github.com/yuriihabrusiev/yuriihabrusiev/assets/901000/429d3e0e-8fa9-4326-bce1-f6fce950dae1">
+</details>
