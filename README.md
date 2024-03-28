@@ -1,5 +1,7 @@
 ### Hey, I'm Yurii 👋🏻
 
+> **Engineering Manager** & **Full-Stack Developer** from [Lviv, Ukraine 🇺🇦](https://g.co/kgs/ZnTXePp).
+
 For over 10 years I have been professionally involved in creating web applications. 
 <br/>
 I specialize in building solutions using these tools & technologies:
