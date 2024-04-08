@@ -5,10 +5,10 @@
 For over 10 years I have been professionally involved in creating web applications. 
 <br/>
 I specialize in building solutions using these tools & technologies:
-* **FrontEnd**: [`React`][reactjs], [`Hotwire`][hotwire], [`Tailwind CSS`][tailwindcss]
-* **BackEnd**: [`Ruby on Rails`][rails], [`Django`][django], [`Next.js`][nextjs]
-* **DevOps**: [`Docker`][docker], [`Kubernetes`][kubernetes], [`Terraform`][terraform]
-* **Clouds**: [`Amazon Web Services`][aws], [`Google Cloud`][gcloud]
+* FrontEnd: [`React`][reactjs], [`Hotwire`][hotwire], [`Tailwind CSS`][tailwindcss]
+* BackEnd: [`Ruby on Rails`][rails], [`Django`][django], [`Next.js`][nextjs]
+* DevOps: [`Docker`][docker], [`Kubernetes`][kubernetes], [`Terraform`][terraform]
+* Clouds: [`Amazon Web Services`][aws], [`Google Cloud`][gcloud]
 
 For more information, please check my [LinkedIn][linkedin]. 
 <br>
