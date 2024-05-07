@@ -14,12 +14,6 @@ For more information, please check my [LinkedIn][linkedin].
 <br>
 Also, here is a [list of essential things][uses] I use daily and for work.
 
-#### 👨🏻‍💻 Currently I'm working on...
-* Driving engineering team at [Finique](https://finique.co).
-* [My personal website](https://habrusiev.com) revamp with [Astro](https://astro.build), [React][reactjs] and [Tailwind CSS][tailwindcss].
-* Building [ultimate Ruby on Rails dev container](https://github.com/yuriihabrusiev/devcontainer-rails). 
-
-
 #### 📫 Contact
 
 Ping me on [LinkedIn][linkedin] with your questions, ideas or anything else!
