@@ -18,8 +18,6 @@ Also, here is a [list of essential things][uses] I use daily and for work.
 
 Ping me on [LinkedIn][linkedin] with your questions, ideas or anything else!
 
-<a href="https://app.daily.dev/yuriihabrusiev"><img src="https://api.daily.dev/devcards/v2/EJOmX2lY5IQ4CgMWOg7bp.png?r=7mf&type=wide" width="652" alt="Yurii Habrusiev's Dev Card"/></a>
-
 [linkedin]: https://www.linkedin.com/in/yuriihabrusiev
 [uses]: https://github.com/yuriihabrusiev/yuriihabrusiev/blob/main/USES.md
 [reactjs]: https://react.dev
